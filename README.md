@@ -7,5 +7,5 @@
 - [Ashes of Creation](https://ashesofcreation.com/r/48dfc605)
 
 ## Contact
-- [My Mods on Steam Workshop](https://steamcommunity.com/id/hayness666/myworkshopfiles/)  
-- [DM hayness666 on Discord](https://discord.com/users/403622841117048833)
+- [Steam Workshop](https://steamcommunity.com/id/hayness666/myworkshopfiles/)  
+- [Discord Profile](https://discord.com/users/403622841117048833)
