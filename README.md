@@ -1,5 +1,5 @@
 ## About
-- Alt account for game-related projects, such as mods, websites, & extensions
+Alt account for game-related projects, such as mods, websites, & extensions
 
 ## Projects
 - [Project Zomboid](https://store.steampowered.com/app/108600/Project_Zomboid/)
