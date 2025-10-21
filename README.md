@@ -1,6 +1,6 @@
 ## About
-- Modder, web developer, Chrome extensions, web scrapers, custom tools, designer, diplomat, and marketing, all connected through game-related projects  
-- This account specific to gametag and separate from work/IRL one  
+- Mods, websites, extensions, scrapers, tools 
+- Alt account for game-related only
 
 ## Projects
 - [Project Zomboid](https://store.steampowered.com/app/108600/Project_Zomboid/)
